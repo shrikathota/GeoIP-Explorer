@@ -29,7 +29,7 @@ GeoIP-Explorer/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/geoip-explorer.git
+git clone https://github.com/shrikathota/GeoIP-Explorer.git
 cd geoip-explorer
 
 2. Open index.html in your browser.
