@@ -42,5 +42,4 @@ cd geoip-explorer
 - The app fetches data (location, ISP, timezone) and displays it.
 - An interactive LeafletJS map highlights the location with a marker.
 
-🧑‍💻 Author
 Developed by Shrika Thota
