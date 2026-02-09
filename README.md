@@ -43,4 +43,5 @@ cd geoip-explorer
 - An interactive LeafletJS map highlights the location with a marker.
 
 Developed by Shrika Thota
+<br>
 Check out the deployed version : https://geo-ip-explorer.netlify.app/
